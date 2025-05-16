@@ -1,4 +1,6 @@
 public enum SoundType
 {
-    WALK
+    WALK_CONCRETE,
+    WALK_GRASS,
+    SHOOT
 }
